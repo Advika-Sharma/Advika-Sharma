@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/eb2ba24a-7b1d-42ea-89ce-5a5753e847e3)<img src="https://naukrinama.com/static/c1e/client/99589/uploaded/d1bf46b2529a12cc185f153f155dab4e.jpg?width=968&height=520&resizemode=4" />
 <h1 align="center">Hi 👋, I'm Advika-Sharma</h1>
 <h3 align="center">I am a passionate full stack developer crafting seamless web experiences</h3>
 
