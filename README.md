@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 <h1 align="center">Hi 👋, I'm Advika-Sharma</h1>
 <h3 align="center">I am a passionate full stack developer crafting seamless web experiences</h3>
 
