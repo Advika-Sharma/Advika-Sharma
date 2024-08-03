@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb2ba24a-7b1d-42ea-89ce-5a5753e847e3)<img src="https://naukrinama.com/static/c1e/client/99589/uploaded/d1bf46b2529a12cc185f153f155dab4e.jpg?width=968&height=520&resizemode=4" />
+![image](https://github.com/user-attachments/assets/eb2ba24a-7b1d-42ea-89ce-5a5753e847e3)<img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" />
 <h1 align="center">Hi 👋, I'm Advika-Sharma</h1>
 <h3 align="center">I am a passionate full stack developer crafting seamless web experiences</h3>
 
