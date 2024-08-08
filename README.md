@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Advika-Sharma/final-projects-](https://github.com/Advika-Sharma/final-projects-)
 
-- 💬 Ask me about **DSA, MERN Stack, C++, HTML , CSS, Java, DBMS, Bootstrap, Netlify, Git/GitHub and Linux**
+- 💬 Ask me about **DSA, MERN Stack, C++, HTML , CSS, Java, DBMS, Bootstrap, Render, Netlify, Git/GitHub and Linux**
 
 - 📫 How to reach me **sharmaadvikaa@gmail.com**
 
