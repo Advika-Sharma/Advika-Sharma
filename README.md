@@ -44,4 +44,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advika-sharma&" alt="advika-sharma" /></p>
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
+
 
