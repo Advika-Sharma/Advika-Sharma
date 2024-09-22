@@ -61,7 +61,7 @@
 </p>
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay Connected!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay Connected!!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
