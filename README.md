@@ -17,7 +17,7 @@
 
 - 🔭My projects are available here [https://github.com/Advika-Sharma](https://github.com/Advika-Sharma)
 
-- 🌱 I’m currently learning **MERN Full stack**
+- 🌱 I’m currently learned **MERN Full stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Advika-Sharma/final-projects-](https://github.com/Advika-Sharma/final-projects-)
 
